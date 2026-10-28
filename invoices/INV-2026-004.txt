@@ -1,0 +1,37 @@
+================================================================================
+TAX INVOICE - BHARAT INDUSTRIAL SYSTEMS LLP
+================================================================================
+Vendor Details:
+  Company: Bharat Industrial Systems LLP
+  Address: Phase II, Guindy Industrial Estate, Chennai, Tamil Nadu 600032
+  GSTIN:   33AAJFB4521M1ZN
+
+--------------------------------------------------------------------------------
+INVOICE DETAILS:
+  Invoice Number : INV-2026-004
+  Issue Date     : 2026-08-27
+  Due Date       : 2026-09-26
+  Currency       : INR (Indian Rupee - ₹)
+  Status / Note  : CRITICAL OVERDUE (32 days past due - Final Warning)
+
+BILLED TO (CLIENT):
+  Client Name    : Surya Solar Renewable Ltd
+  Client Email   : payments@suryasolar.in
+  Client Address : Avinashi Road, Peelamedu, Coimbatore, Tamil Nadu 641004
+--------------------------------------------------------------------------------
+LINE ITEMS:
+  - Industrial Solar Inverter Monitoring Hardware (4 Units)      | Qty: 4 | Rate: ₹ 38,000 | Amt: ₹ 152,000
+  - On-site Sensor Calibration & Commissioning Services          | Qty: 1 | Rate: ₹ 48,000 | Amt: ₹  48,000
+--------------------------------------------------------------------------------
+FINANCIAL SUMMARY:
+  Subtotal       : ₹200,000
+  Tax Details    : 18% GST (CGST 9% + SGST 9%) -> ₹36,000
+  TOTAL AMOUNT   : ₹236,000 INR
+--------------------------------------------------------------------------------
+REMITTANCE INSTRUCTIONS:
+  Please transfer funds directly to:
+  State Bank of India | A/C: 38920144521 | IFSC: SBIN0001856
+  Kindly email payment confirmation to accounts@bharat.com
+
+Thank you for your business!
+================================================================================

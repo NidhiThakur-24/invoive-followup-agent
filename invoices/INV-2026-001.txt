@@ -1,0 +1,37 @@
+================================================================================
+TAX INVOICE - NOVATECH DIGITAL SOLUTIONS PVT LTD
+================================================================================
+Vendor Details:
+  Company: NovaTech Digital Solutions Pvt Ltd
+  Address: 402, 5th Block, Koramangala, Bengaluru, Karnataka 560034
+  GSTIN:   29AABCU9603R1ZM
+
+--------------------------------------------------------------------------------
+INVOICE DETAILS:
+  Invoice Number : INV-2026-001
+  Issue Date     : 2026-10-08
+  Due Date       : 2026-11-07
+  Currency       : INR (Indian Rupee - ₹)
+  Status / Note  : Payment Pending - Due in 10 days
+
+BILLED TO (CLIENT):
+  Client Name    : Shanti Silk Emporium
+  Client Email   : accounts@shantisilk.in
+  Client Address : Shop 14-16, Textile Market Ring Road, Surat, Gujarat 395002
+--------------------------------------------------------------------------------
+LINE ITEMS:
+  - E-Commerce Portal Maintenance & Cloud Hosting (Quarterly)    | Qty: 1 | Rate: ₹ 30,000 | Amt: ₹  30,000
+  - Payment Gateway Integration & SSL Setup                      | Qty: 1 | Rate: ₹ 15,000 | Amt: ₹  15,000
+--------------------------------------------------------------------------------
+FINANCIAL SUMMARY:
+  Subtotal       : ₹45,000
+  Tax Details    : 18% GST (CGST 9% + SGST 9%) -> ₹8,100
+  TOTAL AMOUNT   : ₹53,100 INR
+--------------------------------------------------------------------------------
+REMITTANCE INSTRUCTIONS:
+  Please transfer funds directly to:
+  HDFC Bank | A/C: 50200034891102 | IFSC: HDFC0000523
+  Kindly email payment confirmation to accounts@novatech.com
+
+Thank you for your business!
+================================================================================

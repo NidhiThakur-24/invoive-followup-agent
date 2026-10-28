@@ -1,0 +1,37 @@
+================================================================================
+TAX INVOICE - FINTRACK BUSINESS ADVISORY LLP
+================================================================================
+Vendor Details:
+  Company: FinTrack Business Advisory LLP
+  Address: B-Wing, Mondeal Heights, SG Highway, Ahmedabad, Gujarat 380015
+  GSTIN:   24AAOFF6312L1ZP
+
+--------------------------------------------------------------------------------
+INVOICE DETAILS:
+  Invoice Number : INV-2026-005
+  Issue Date     : 2026-10-18
+  Due Date       : 2026-11-17
+  Currency       : INR (Indian Rupee - ₹)
+  Status / Note  : Payment Pending - Due in 20 days
+
+BILLED TO (CLIENT):
+  Client Name    : Anand Steel Fabrication
+  Client Email   : accounts@anandsteel.com
+  Client Address : GIDC Lodhika Industrial Area, Metoda, Rajkot, Gujarat 360021
+--------------------------------------------------------------------------------
+LINE ITEMS:
+  - ERP Tally Cloud Migration & Annual Maintenance Contract      | Qty: 1 | Rate: ₹ 55,000 | Amt: ₹  55,000
+  - Corporate GST Audit Filing Assistance                        | Qty: 1 | Rate: ₹ 20,000 | Amt: ₹  20,000
+--------------------------------------------------------------------------------
+FINANCIAL SUMMARY:
+  Subtotal       : ₹75,000
+  Tax Details    : 18% GST (CGST 9% + SGST 9%) -> ₹13,500
+  TOTAL AMOUNT   : ₹88,500 INR
+--------------------------------------------------------------------------------
+REMITTANCE INSTRUCTIONS:
+  Please transfer funds directly to:
+  Kotak Mahindra Bank | A/C: 2811440932 | IFSC: KKBK0000812
+  Kindly email payment confirmation to accounts@fintrack.com
+
+Thank you for your business!
+================================================================================

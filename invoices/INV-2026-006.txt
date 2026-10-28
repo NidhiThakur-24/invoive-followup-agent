@@ -1,0 +1,37 @@
+================================================================================
+TAX INVOICE - VANI CREATIVE AGENCY
+================================================================================
+Vendor Details:
+  Company: Vani Creative Agency
+  Address: Road No. 36, Jubilee Hills, Hyderabad, Telangana 500033
+  GSTIN:   36AAQFV8901N1ZY
+
+--------------------------------------------------------------------------------
+INVOICE DETAILS:
+  Invoice Number : INV-2026-006
+  Issue Date     : 2026-09-18
+  Due Date       : 2026-10-18
+  Currency       : INR (Indian Rupee - ₹)
+  Status / Note  : PAID - Received in full on 2026-10-25 via NEFT Ref: N1029481726
+
+BILLED TO (CLIENT):
+  Client Name    : Royal Spices Exports
+  Client Email   : info@royalspicesexports.com
+  Client Address : Willingdon Island Port Area, Kochi, Kerala 682003
+--------------------------------------------------------------------------------
+LINE ITEMS:
+  - Export Packaging Label Redesign & Multilingual Translation   | Qty: 1 | Rate: ₹ 35,000 | Amt: ₹  35,000
+  - Product Catalog Photography & High-res Retouching            | Qty: 1 | Rate: ₹ 15,000 | Amt: ₹  15,000
+--------------------------------------------------------------------------------
+FINANCIAL SUMMARY:
+  Subtotal       : ₹50,000
+  Tax Details    : 18% GST (IGST 18%) -> ₹9,000
+  TOTAL AMOUNT   : ₹59,000 INR
+--------------------------------------------------------------------------------
+REMITTANCE INSTRUCTIONS:
+  Please transfer funds directly to:
+  HDFC Bank | A/C: 50100234199841 | IFSC: HDFC0001629
+  Kindly email payment confirmation to accounts@vani.com
+
+Thank you for your business!
+================================================================================

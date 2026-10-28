@@ -1,0 +1,37 @@
+================================================================================
+TAX INVOICE - PIXELCRAFT MEDIA & MARKETING
+================================================================================
+Vendor Details:
+  Company: PixelCraft Media & Marketing
+  Address: Level 3, Golf Course Extension Road, Gurugram, Haryana 122018
+  GSTIN:   06AABCP7741K1ZT
+
+--------------------------------------------------------------------------------
+INVOICE DETAILS:
+  Invoice Number : INV-2026-003
+  Issue Date     : 2026-09-12
+  Due Date       : 2026-10-12
+  Currency       : INR (Indian Rupee - ₹)
+  Status / Note  : OVERDUE (16 days past due)
+
+BILLED TO (CLIENT):
+  Client Name    : ChaiShala Franchises India
+  Client Email   : finance@chaishala.co.in
+  Client Address : Flat 3A, Connaught Place Outer Circle, New Delhi 110001
+--------------------------------------------------------------------------------
+LINE ITEMS:
+  - Social Media Brand Campaign & Festive Ad Creatives           | Qty: 1 | Rate: ₹ 45,000 | Amt: ₹  45,000
+  - Local Search Engine Optimization & Store Locator Setup       | Qty: 1 | Rate: ₹ 20,000 | Amt: ₹  20,000
+--------------------------------------------------------------------------------
+FINANCIAL SUMMARY:
+  Subtotal       : ₹65,000
+  Tax Details    : 18% GST (IGST 18%) -> ₹11,700
+  TOTAL AMOUNT   : ₹76,700 INR
+--------------------------------------------------------------------------------
+REMITTANCE INSTRUCTIONS:
+  Please transfer funds directly to:
+  Axis Bank | A/C: 918020045612398 | IFSC: UTIB0000214
+  Kindly email payment confirmation to accounts@pixelcraft.com
+
+Thank you for your business!
+================================================================================
